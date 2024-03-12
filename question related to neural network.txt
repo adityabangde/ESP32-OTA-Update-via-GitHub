@@ -1,9 +1,0 @@
-1. how to decide number of hidden layers in neural netowrk
-2. how to choose best sutable activation funtion for input data
-3. number of neurons in single layer
-4. list of parameters to evaluate neural network 
-5. list to parameters to make neural network more efficient
-6. how to decide which machine learning algorithm will be best sutable for application 
-7. how many alogrithm need to use to build single application
-8. list of filter need to upply to data before feeding to neural network
-9. how to handle missing or over data
